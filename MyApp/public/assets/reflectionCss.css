@@ -1,0 +1,13 @@
+.block{
+    color: white;
+    display: block;
+    border-style: solid;
+    border-width: thin;
+    border-color: white;
+    width: 300px  ;
+    background-color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
